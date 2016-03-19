@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T23:36:56.458Z'
-dateModified: '2016-03-19T23:36:31.901Z'
+datePublished: '2016-03-19T23:40:30.999Z'
+dateModified: '2016-03-19T23:36:59.187Z'
 title: ImageryWest Real Estate Photography
 author: []
 sourcePath: _posts/2016-03-19-imagerywest.md
