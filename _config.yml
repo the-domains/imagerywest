@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: ImageryWest
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.3425532
-  brandStrength: 0.406383
-  lightness: 0.5191489
+  saturation: 1
+  brandStrength: 0.02765957
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#261C1C'
     - '#011CB3'
     - '#8F8B8B'
     - '#676362'
-  rhythmicContrast: 0.9830599
-typography_spectrum: 0.723444904666394
+  rhythmicContrast: 0
+typography_spectrum: 0.3808511
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9361702
+layout_spectrum: 1
 favicon: null
-name: ImageryWest
+analytics:
+  twitter: null
+  google: null
+  facebook: null
