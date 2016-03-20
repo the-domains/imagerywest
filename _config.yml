@@ -1,28 +1,40 @@
-name: ImageryWest
-favicon: null
-layout_spectrum: 0.3506289725191891
-typography_spectrum: 0.723444904666394
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6195570577401668
-  lightness: 0.7326322838198394
-  saturation: 0.31336568971164525
-  rhythmicContrast: 0.9830598612315953
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3425532
+  brandStrength: 0.406383
+  lightness: 0.5191489
+  brandColors:
+    - '#FFFFFF'
+    - '#261C1C'
+    - '#011CB3'
+    - '#8F8B8B'
+    - '#676362'
+  rhythmicContrast: 0.9830599
+typography_spectrum: 0.723444904666394
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9361702
+favicon: null
+name: ImageryWest
