@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Real Estate Imagery
-datePublished: '2016-03-19T23:43:19.098Z'
-dateModified: '2016-03-19T23:43:18.718Z'
-title: ImageryWest Real Estate Photography
+description: This is a house
+datePublished: '2016-03-20T02:34:38.785Z'
+dateModified: '2016-03-20T02:18:53.703Z'
+title: Real Estate Imagery
 author: []
 sourcePath: _posts/2016-03-19-imagerywest.md
 published: true
@@ -24,8 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06619c0c-e287-4580-bbd5-6bfd8b54e8fa.jpg)
 
-Real Estate Imagery
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ba129c1-fd75-4770-9702-a8d82c28197f.jpg)
+# [Real Estate Imagery][0]
+
+This is a house that is on the beach. It is nice.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ba129c1-fd75-4770-9702-a8d82c28197f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b70867-58be-45ad-890a-688f95774c62.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d79b4256-d7e9-44e2-89fe-72104166ef92.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6078dc6e-6c28-4804-9c62-961fadf69f28.jpg)
@@ -44,7 +45,7 @@ Real Estate Imagery
 
 This is a house
 
-This is another house
+This is another house. It is like other houses but different.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbdfbe9-dfd6-4467-8354-343bc5e58457.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/757c4254-8028-44cb-bb06-c19a149dc768.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0158a8c7-2026-47f3-bb0a-ac3d073b022c.jpg)
@@ -125,3 +126,26 @@ This is another house
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af838fd2-e38e-4d0b-a154-5e874ffc2277.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4029662f-17c1-45af-a5c4-1b5b95e9208a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c066afd9-6712-4d76-ae6e-b48f5bc82504.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55cc77f9-a0b2-448f-aae6-2defaa579fe4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f0f3830-dc04-4de4-b8d8-68eadd8770e0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d641bb1-e87e-42ac-bac1-36339f2d9fcc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ae79c72-30ad-4a6a-8003-1b1300e604ed.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44e0ec6e-528d-4083-b095-b81328809088.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6639b90-f53b-4032-b835-d246736dea45.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc6f0872-1220-47cd-b21b-206a5f28bb12.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68a62992-ac31-4e9f-876e-b2c2292421e2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a08100e-3a81-478b-8092-99b5e18d6eb6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02453f1-6686-45d9-a5ca-03c65fcf9bf1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb71435e-bd62-4ffc-a43b-36775e42a603.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/761f2684-edb5-48cc-96fe-b2c4d9f676ca.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61836ebb-88bd-41b6-8b4c-496b7f48a8ad.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bfdb55a-92c3-49ed-b106-18d3da3a406f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c09ff237-e000-4c56-ae35-e33ab9a1d469.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc8af215-e425-4428-aee5-1fef11949c4b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13dbadc3-e4c7-430b-9e9b-42f8184c1e82.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf1fe7ca-0bdf-49b8-a410-44d060d8e40b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f402c7a3-d823-40c4-bb4d-8d70f3a29d49.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/079360aa-bf4c-45b6-9062-b105ed44da4e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2327eed-7f8d-4fe9-8697-81d38d8d1472.jpg)
+
+[0]: www.imagerywest.com
