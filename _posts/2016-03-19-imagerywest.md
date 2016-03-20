@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: This is a house
-datePublished: '2016-03-20T02:34:38.785Z'
-dateModified: '2016-03-20T02:18:53.703Z'
+datePublished: '2016-03-20T03:13:07.503Z'
+dateModified: '2016-03-20T02:34:47.690Z'
 title: Real Estate Imagery
 author: []
 sourcePath: _posts/2016-03-19-imagerywest.md
@@ -22,7 +22,7 @@ url: imagerywest/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06619c0c-e287-4580-bbd5-6bfd8b54e8fa.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/73b1299b00650e588265adfdaecb428e175dc6d5.jpg)
 
 # [Real Estate Imagery][0]
 
