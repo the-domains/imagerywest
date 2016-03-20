@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-20T02:24:08.052Z'
-dateModified: '2016-03-20T02:23:55.809Z'
+datePublished: '2016-03-20T03:13:07.380Z'
+dateModified: '2016-03-20T02:24:09.875Z'
 title: "Check out this house! It's nice!"
 author: []
 authors: []
