@@ -1,7 +1,7 @@
 name: ImageryWest
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.3808511
+typography_spectrum: 0.8488
 collections:
   - index:
       path: /
